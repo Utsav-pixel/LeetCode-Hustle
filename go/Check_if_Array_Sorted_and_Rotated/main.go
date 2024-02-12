@@ -1,5 +1,9 @@
 package main
 
+import (
+	"fmt"
+)
+
 func check(nums []int) bool {
 	inc := 0
 	dre := 0
@@ -26,4 +30,9 @@ func check(nums []int) bool {
 	}
 
 	return false
+}
+
+func main() {
+	result := check([]int{3, 4, 5, 7, 4})
+	fmt.Println(result)
 }

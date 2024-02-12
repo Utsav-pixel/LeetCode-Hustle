@@ -1,15 +1,13 @@
-Title :  solution in Python Goooo
+Title :solution in Python Goooo
 
 
 # Code 🔥🔥 🚀😄
-
-TimeComplexity : $$O(n)$$
-SpaceComplexity : $$O(1)$$
-
-Time: 
+https://github.com/Utsav-pixel/leetcode-hustle
+# Complexity
+- Time complexity: $$O(n)$$
+- Space complexity:$$O(1)$$
 ```python []
 
-        
 ```
 ```Go []
 

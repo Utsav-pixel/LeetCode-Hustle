@@ -19,3 +19,8 @@ class Solution:
             if inc-dre == inc-1:
                 return True
         return False
+    
+a = [3,4,5,1,4]
+
+Sol = Solution()
+print(Sol.check(a))
